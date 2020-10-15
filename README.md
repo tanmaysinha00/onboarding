@@ -44,10 +44,7 @@ Well of course you can use more better ways to organize your project, this is ju
 - Code reviews are an important part of an open-source organization environment, So
 🥮 Brownie Points for reviewing other peer's code! **Hint:** You can find their code in their named branch.
 
-
 **Enough said! It's time to dive into the actual exciting stuff.** 
 ### We wish you all the very best. May the source be with you! 🙌🏻 
-
-&nbsp;
 **Anything else on your mind?** Do let us know by mailing us [here](mailto:viveknigam.nigam3@gmail.com).
 
