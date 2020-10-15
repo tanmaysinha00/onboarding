@@ -49,6 +49,5 @@ Well of course you can use more better ways to organize your project, this is ju
 ### We wish you all the very best. May the source be with you! 🙌🏻 
 
 &nbsp;
-
 **Anything else on your mind?** Do let us know by mailing us [here](mailto:viveknigam.nigam3@gmail.com).
 
