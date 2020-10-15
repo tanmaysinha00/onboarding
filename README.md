@@ -3,13 +3,13 @@
 ## Introduction
 This repository serves to be a landing place for all the task related code submissions for onboarding to Bitshift Open Community. 
 
-For code submissions, we would like to follow a set of contribution guidelines (like any other Open Source Organization), which would in turn make students aware about the importance of contribution guidelines in Open Source Projects.
+For code submissions, we would like to follow a set of Contribution Guidelines (like any other Open Source Organization), which would in turn make students aware about the importance of Contribution Guidelines in Open Source Projects.
 
-We would encourage the students to follow the below mentioned points:
+We would thus encourage the students to follow the below mentioned points:
 
 ### Setting up the Repository
 - Fork the [bitshiftlabs/onboarding](https://github.com/bitshiftlabs/onboarding) repository to your account and clone it. 
-- Add upstream as bitshiftlabs/onboarding repo and perform `fetch`. You may use the commands below for your reference.
+- Add upstream as bitshiftlabs/onboarding repo and perform `fetch`. You may use the following commands for your reference.
 
 ```bash
 $ git clone https://github.com/<your-username>/onboarding.git
@@ -27,20 +27,15 @@ $ git fetch --all
 
 ```bash
 vivek
-|-server
-|-tests
-|-app
+|-Task 1
+|-Task 2
+|-Task 3
+|- 
 ```
 
-`server` - For Task 2
+Well of course, this is just a trivial suggestion and you are not pushed to use it strictly. You can freely use other better ways to organize your project :)
 
-`app` - For Task 3
-
-`tests` - For Task 4
-
-Well of course you can use more better ways to organize your project, this is just a trivial suggestion, you're not pushed to use it strictly :) 
-
-- ⭐ Make a Pull Request from `<your-username>/onboarding:<named-branch>` → `bitshiftlabs/onboarding:<named-branch>` **after each task!** So that there can be a smooth workflow for code-reviews.
+- ⭐ Make a Pull Request from `<your-username>/onboarding:<named-branch>` → `bitshiftlabs/onboarding:<named-branch>` **after each task**, so that there can be a smooth workflow for code-reviews.
 - Code reviews are an important part of an open-source organization environment, So
 🥮 Brownie Points for reviewing other peer's code! **Hint:** You can find their code in their named branch.
 
