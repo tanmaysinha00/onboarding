@@ -20,7 +20,7 @@ $ git fetch --all
 
 - ⭐ Switch to the branch which matches your first name, ex: switch to branch `vivek` if your name is `Vivek Nigam`. You will be making all the commits to this branch itself.
 
-(For your convenience you may create additional branches with any name on you **forked repo** and merge them with your named branch later)
+(For your convenience you may create additional branches with any name on your **forked repo** and merge them with your 'named branch' later)
 
 ### Working on the tasks
 - Keep a folder structure which is maintainable. One suggested structure is given below:
@@ -36,8 +36,8 @@ vivek
 Well of course, this is just a trivial suggestion and you are not pushed to use it strictly. You can freely use other better ways to organize your project :)
 
 - ⭐ Make a Pull Request from `<your-username>/onboarding:<named-branch>` → `bitshiftlabs/onboarding:<named-branch>` **after each task**, so that there can be a smooth workflow for code-reviews.
-- Code reviews are an important part of an open-source organization environment, So
-🥮 Brownie Points for reviewing other peer's code! **Hint:** You can find their code in their named branch.
+- Code reviews are an important part of an open-source organization environment, so
+🥮 Brownie Points for reviewing other peer's code! **Hint:** You may find the code in their 'named branch'.
 
 **Enough said! It's time to dive into the actual exciting stuff.** 
 ### We wish you all the very best. May the source be with you! 🙌🏻 
